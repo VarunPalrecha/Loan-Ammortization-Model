@@ -11,8 +11,11 @@ Payment Frequency (e.g., monthly, quarterly, etc.)
 Output Metrics:
 
 Installment Amount: Calculated based on the input parameters.
+
 Total Interest Paid: Sum of all interest payments over the loan period.
+
 Total Amount Paid: Sum of the principal and total interest paid.
+
 Detailed Amortization Schedule:
 
 A breakdown of each installment with specifics on interest and principal components.
